@@ -7,6 +7,5 @@ This project includes a Power BI dashboard visualizing customer churn analysis b
 
 - Churn drivers identified through analysis.
 - Visualization of churn demographics and key customer segments.
-- Predictions of future churn using a Random Forest model (AUC 0.81).
 
 You can view the detailed dashboard ((https://github.com/insightful-analytics/Data-Science-Portfolio/blob/main/Customer%20Churn%20Power%20BI%20Dashboard%20-%20Exited%20%2B%20Non%20-%20Exited.pdf)).
