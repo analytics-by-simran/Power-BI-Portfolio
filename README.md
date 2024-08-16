@@ -1,7 +1,7 @@
 # Data-Science-Portfolio
 **Welcome to My Data Science &amp; Analytics Portfolio!**  Explore my projects, including data analysis, machine learning models, and competition solutions. Check out code snippets in Python, R, SQL, and Jupyter Notebooks featuring data exploration and model development. See my certifications and courses, showcasing my expertise in the field.
 
-## 1. Customer Churn Analysis Dashboard
+## 1. Bank Customer Churn Analysis Dashboard
 
 This project includes a Power BI dashboard visualizing customer churn analysis based on a sample of 10,000 customers. The dashboard highlights:
 
