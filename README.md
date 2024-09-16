@@ -1,4 +1,4 @@
-# Welcome to My Data Science & Analytics Portfolio!  
+# Welcome to My Power BI Portfolio Projects!  
 
 ## 1. Bank Customer Churn Analysis Dashboard
 
