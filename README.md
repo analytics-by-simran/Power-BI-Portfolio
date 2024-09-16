@@ -13,4 +13,6 @@ $${\color{red}Project 1 : Bank Churn Analysis}$$
 - It is important for banks to understand what causes a client to quit the organisation.
   
 Churn prevention enables businesses to create loyalty programs and retention efforts in order to maintain as many customers as feasible.
-
+- Power Bi Dash Board : https://drive.google.com/file/d/1ETYJk-ooPBII-0bKMZce1rJp6lJI3RZT/view?usp=drive_link
+- Documentation : https://drive.google.com/file/d/1ETYJk-ooPBII-0bKMZce1rJp6lJI3RZT/view?usp=drive_link
+- Datasets - https://drive.google.com/drive/folders/1eKC-FY9S-Endv0hvgOB0rzUWHbvKDKRF?usp=sharing
