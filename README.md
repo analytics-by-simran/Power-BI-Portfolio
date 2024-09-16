@@ -5,3 +5,5 @@
 
 Welcome to my Power BI portfolio repository! Here is a collection of Power BI projects and dashboards that illustrate my talents and knowledge in data visualisation, business intelligence, and analytics using Power BI.
 
+# About Me
+I am a dedicated data geek with extensive experience in Power BI. I have vast expertise converting raw data into relevant insights, developing interactive dashboards, and advising organisations on data-driven decisions. This portfolio demonstrates my abilities to use Power BI to graphically present difficult data. 
