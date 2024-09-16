@@ -7,3 +7,10 @@ Welcome to my Power BI portfolio repository! Here is a collection of Power BI pr
 
 # About Me
 I am a dedicated data geek with extensive experience in Power BI. I have vast expertise converting raw data into relevant insights, developing interactive dashboards, and advising organisations on data-driven decisions. This portfolio demonstrates my abilities to use Power BI to graphically present difficult data. 
+
+# Project 1 : Bank Churn Analysis
+- Analyse the data to obtain a few insights about client churn.
+- It is important for banks to understand what causes a client to quit the organisation.
+  
+Churn prevention enables businesses to create loyalty programs and retention efforts in order to maintain as many customers as feasible.
+
