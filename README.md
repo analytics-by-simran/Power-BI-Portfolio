@@ -1,10 +1,6 @@
 # Welcome to My Power BI Portfolio Projects!  
 
-## 1. Bank Customer Churn Analysis Dashboard
+![image](https://github.com/user-attachments/assets/d5a7dcb7-9d57-4e0f-be01-c7f0d1f5e5d0)
+ PostgreSQL    Canva PPT MS OFFICE EXCEL GOOGLE SHEETS VSCODE Figma PREZI SQL Server GITHUB ACTIONS WINDOWS TERMINAL
 
-This project includes a Power BI dashboard visualizing customer churn analysis based on a sample of 10,000 customers. The dashboard highlights:
-
-- Churn drivers identified through analysis.
-- Visualization of churn demographics and key customer segments.
-
-You can view the detailed dashboard ((https://github.com/insightful-analytics/Data-Science-Portfolio/blob/main/Customer%20Churn%20Power%20BI%20Dashboard%20-%20Exited%20%2B%20Non%20-%20Exited.pdf)).
+Welcome to my personal Power BI portfolio repository! Here you will find a collection of Power BI projects and dashboards that demonstrate my skills and expertise in data visualization, business intelligence, and analytics using Power BI.
