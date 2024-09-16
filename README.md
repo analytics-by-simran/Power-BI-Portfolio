@@ -16,3 +16,8 @@ Churn prevention enables businesses to create loyalty programs and retention eff
 - Power Bi Dash Board : https://drive.google.com/file/d/1ETYJk-ooPBII-0bKMZce1rJp6lJI3RZT/view?usp=drive_link
 - Documentation : https://drive.google.com/file/d/1ETYJk-ooPBII-0bKMZce1rJp6lJI3RZT/view?usp=drive_link
 - Datasets - https://drive.google.com/drive/folders/1eKC-FY9S-Endv0hvgOB0rzUWHbvKDKRF?usp=sharing
+![Page 1](https://github.com/user-attachments/assets/d5065440-4265-4a18-b08c-894b0d07b346)
+![Page 2](https://github.com/user-attachments/assets/a27c0a81-90b0-4819-9b36-1b6c02335dec)
+![Data Modelling](https://github.com/user-attachments/assets/32f4a340-a4e8-458d-a136-5c32571a4144)
+
+
