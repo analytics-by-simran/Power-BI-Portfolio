@@ -21,7 +21,7 @@ Churn prevention enables businesses to create loyalty programs and retention eff
 ![Data Modelling](https://github.com/user-attachments/assets/32f4a340-a4e8-458d-a136-5c32571a4144)
 
 
-## Project 2 : Bank Customer Churn Analysis
+## Project 2 : Super Market Sales Insights
 The dataset used in this dashboard contains detailed transactional data for a fictional superstore, providing insights across various dimensions such as sales, profits, customer segments, product categories, shipping modes, and geographic regions. Key fields include:
 
 - Order Information: Order ID, Order Date, Ship Date, Ship Mode, and Customer ID.
