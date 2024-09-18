@@ -41,3 +41,23 @@ Why This Data is Important for a Store
 - Datasets : https://drive.google.com/file/d/1mmfkIZg8OClalnlKniinmhSU_A9kEDsk/view?usp=sharing
 
   ![Dashboard](https://github.com/user-attachments/assets/acde0785-8932-48bb-9980-a8600ac969da)
+
+  ## Project 3 : Healthcare Analytics
+- Power Bi Dash Board : https://drive.google.com/file/d/1ljSjZlfPXgjf9KGujCUn_PQxKZF2cM8A/view?usp=sharing
+- Documentation : [https://docs.google.com/document/d/1grjval_0SAxRDYw7pN5clkYgBhMTjbRS/edit?usp=sharing&ouid=106202687322505496354&rtpof=true&sd=true](https://drive.google.com/file/d/1l2Sw2nNCP_RE6wJItRfER3DhTXaLlxPb/view?usp=sharing)
+- Datasets : https://drive.google.com/drive/folders/1Q438ouJibDle8nc7TYiwdkl-LWFUGIij?usp=sharing
+  
+  ![dashboards-images-1](https://github.com/user-attachments/assets/8e2558a1-4be6-4028-b1a9-4b4ebe42b62c)
+
+  ![dashboards-images-2](https://github.com/user-attachments/assets/12dccfed-c39e-474c-a680-619bd8479d34)
+
+  ![dashboards-images-3](https://github.com/user-attachments/assets/bba497fb-0d04-4cf3-8a5c-691735da36b9)
+
+  ![dashboards-images-4](https://github.com/user-attachments/assets/5e179462-bb7c-4cc4-b089-7c73428ba9a1)
+
+  ![dashboards-images-5](https://github.com/user-attachments/assets/94baff26-b261-44bc-94fc-124a3ca73bb7)
+
+
+
+
+
