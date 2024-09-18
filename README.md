@@ -57,6 +57,8 @@ Why This Data is Important for a Store
 
   ![dashboards-images-5](https://github.com/user-attachments/assets/94baff26-b261-44bc-94fc-124a3ca73bb7)
 
+  ![image](https://github.com/user-attachments/assets/1c3581f9-1006-441f-bf78-b9ea154dc09a)
+
 
 
 
