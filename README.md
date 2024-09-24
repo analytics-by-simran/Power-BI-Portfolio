@@ -42,6 +42,13 @@ Why This Data is Important for a Store
 
   ![Dashboard](https://github.com/user-attachments/assets/acde0785-8932-48bb-9980-a8600ac969da)
 
+  Discover Insights with Power BI Q&A!
+
+- With the Q&A feature in Power BI, you can dive into our store sales data just by asking questions in plain language. It’s designed to make data analysis feel effortless and intuitive. Take a look at how this tool can turn complex numbers into clear insights—no data expertise needed!
+
+  ![image](https://github.com/user-attachments/assets/295b1018-ef2d-439e-95a9-e408a39f6551)
+
+
   ## Project 3 : Healthcare Analytics
 - Power Bi Dash Board : https://drive.google.com/file/d/1ljSjZlfPXgjf9KGujCUn_PQxKZF2cM8A/view?usp=sharing
 - Documentation : [https://docs.google.com/document/d/1grjval_0SAxRDYw7pN5clkYgBhMTjbRS/edit?usp=sharing&ouid=106202687322505496354&rtpof=true&sd=true](https://drive.google.com/file/d/1l2Sw2nNCP_RE6wJItRfER3DhTXaLlxPb/view?usp=sharing)
