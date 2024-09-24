@@ -39,8 +39,9 @@ Why This Data is Important for a Store
 - Power Bi Dash Board : https://drive.google.com/file/d/1Jz2cswKN28moPLwEgle6GklcGuRSqJry/view?usp=sharing
 - Documentation : https://docs.google.com/document/d/1grjval_0SAxRDYw7pN5clkYgBhMTjbRS/edit?usp=sharing&ouid=106202687322505496354&rtpof=true&sd=true
 - Datasets : https://drive.google.com/file/d/1mmfkIZg8OClalnlKniinmhSU_A9kEDsk/view?usp=sharing
+  ![image](https://github.com/user-attachments/assets/5b9c00d3-c261-4289-bb03-977ccee1a1d2)
 
-  ![image](https://github.com/user-attachments/assets/9c2e3def-fc4c-461e-9161-9d527b1c61c6)
+
 
 
  ### Discover Insights with Power BI Q&A! 
@@ -48,7 +49,7 @@ Why This Data is Important for a Store
 
 - With the Q&A feature in Power BI, you can dive into the Super Market sales data just by asking questions in plain language. It’s designed to make data analysis feel effortless and intuitive. Take a look at how this tool can turn complex numbers into clear insights—no data expertise needed!
 
-  ![image](https://github.com/user-attachments/assets/295b1018-ef2d-439e-95a9-e408a39f6551)
+  ![image](https://github.com/user-attachments/assets/9c2e3def-fc4c-461e-9161-9d527b1c61c6)
 
 
   ## Project 3 : Healthcare Analytics
