@@ -42,9 +42,10 @@ Why This Data is Important for a Store
 
   ![Dashboard](https://github.com/user-attachments/assets/acde0785-8932-48bb-9980-a8600ac969da)
 
- # Discover Insights with Power BI Q&A! ("Ask it anything—Power BI Q&A turns your questions into insights in an instant!")
+ ### Discover Insights with Power BI Q&A! 
+ "Ask it anything—Power BI Q&A turns your questions into insights in an instant!"
 
-- With the Q&A feature in Power BI, you can dive into our store sales data just by asking questions in plain language. It’s designed to make data analysis feel effortless and intuitive. Take a look at how this tool can turn complex numbers into clear insights—no data expertise needed!
+- With the Q&A feature in Power BI, you can dive into the Super Market sales data just by asking questions in plain language. It’s designed to make data analysis feel effortless and intuitive. Take a look at how this tool can turn complex numbers into clear insights—no data expertise needed!
 
   ![image](https://github.com/user-attachments/assets/295b1018-ef2d-439e-95a9-e408a39f6551)
 
