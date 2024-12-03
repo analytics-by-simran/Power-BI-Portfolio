@@ -13,7 +13,7 @@ I am a dedicated data geek with extensive experience in Power BI. I have vast ex
 - It is important for banks to understand what causes a client to quit the organisation.
   
 Churn prevention enables businesses to create loyalty programs and retention efforts in order to maintain as many customers as feasible.
-- Power Bi Dash Board : https://drive.google.com/file/d/1ETYJk-ooPBII-0bKMZce1rJp6lJI3RZT/view?usp=sharing
+- Power Bi Dash Board : https://drive.usercontent.google.com/u/0/uc?id=1ETYJk-ooPBII-0bKMZce1rJp6lJI3RZT&export=download
 - Documentation : https://docs.google.com/document/d/1u4F6eESXv2GvRF696ZQKq1RXj5rATJRO/edit?usp=sharing&ouid=106202687322505496354&rtpof=true&sd=true
 - Datasets : https://drive.google.com/drive/folders/1eKC-FY9S-Endv0hvgOB0rzUWHbvKDKRF?usp=sharing
 ![Page 1](https://github.com/user-attachments/assets/d5065440-4265-4a18-b08c-894b0d07b346)
@@ -36,7 +36,7 @@ Why This Data is Important for a Store
 - Shipping Efficiency: By analyzing ship modes and shipping times, the store can streamline its order fulfillment processes, reduce delays, and improve customer satisfaction.
 - Discount & Profitability Correlation: Evaluating the impact of discounts on sales and profits allows the store to strike a balance between offering discounts and maintaining profitability.
 
-- Power Bi Dash Board : https://drive.google.com/file/d/1Jz2cswKN28moPLwEgle6GklcGuRSqJry/view?usp=sharing
+- Power Bi Dash Board : https://drive.usercontent.google.com/u/0/uc?id=1Jz2cswKN28moPLwEgle6GklcGuRSqJry&export=download
 - Documentation : https://docs.google.com/document/d/1grjval_0SAxRDYw7pN5clkYgBhMTjbRS/edit?usp=sharing&ouid=106202687322505496354&rtpof=true&sd=true
 - Datasets : https://drive.google.com/file/d/1mmfkIZg8OClalnlKniinmhSU_A9kEDsk/view?usp=sharing
   
@@ -51,7 +51,7 @@ Why This Data is Important for a Store
 
 
   ## Project 3 : Healthcare Analytics
-- Power Bi Dash Board : https://drive.google.com/file/d/1ljSjZlfPXgjf9KGujCUn_PQxKZF2cM8A/view?usp=sharing
+- Power Bi Dash Board : https://drive.usercontent.google.com/u/0/uc?id=1ljSjZlfPXgjf9KGujCUn_PQxKZF2cM8A&export=download
 - Documentation : [https://docs.google.com/document/d/1grjval_0SAxRDYw7pN5clkYgBhMTjbRS/edit?usp=sharing&ouid=106202687322505496354&rtpof=true&sd=true](https://drive.google.com/file/d/1l2Sw2nNCP_RE6wJItRfER3DhTXaLlxPb/view?usp=sharing)
 - Datasets : https://drive.google.com/drive/folders/1Q438ouJibDle8nc7TYiwdkl-LWFUGIij?usp=sharing
   
