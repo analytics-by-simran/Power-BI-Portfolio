@@ -6,7 +6,14 @@ Here is a collection of Power BI projects and dashboards built using public open
 
 
 # About Me
-I am a dedicated data geek with extensive experience in Power BI. I have vast expertise converting raw data into relevant insights, developing interactive dashboards, and advising organisations on data-driven decisions. This portfolio demonstrates my abilities to use Power BI to graphically present difficult data. 
+![photo - Copy](https://github.com/user-attachments/assets/86dd926b-c1e1-4e33-af6f-b42a2d3d9a11)
+Name : Simran Meena
+Education:
+- Post Graduate in Research Analytics, Humber College Toronto
+- Masters in Operation Research, Department of Mathematics, Hansraj College, University of Delhi
+- Bachelor in Science, Miranda House College, University of Delhi
+
+Profile Summary : I am a dedicated data geek with extensive experience in Power BI. I have vast expertise converting raw data into relevant insights, developing interactive dashboards, and advising organisations on data-driven decisions. This portfolio demonstrates my abilities to use Power BI to graphically present difficult data. 
 
 ## Project 1 : Bank Customer Churn Analysis
 - Analyse the data to obtain a few insights about client churn.
