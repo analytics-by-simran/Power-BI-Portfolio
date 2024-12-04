@@ -6,8 +6,8 @@ Here is a collection of Power BI projects and dashboards built using public open
 
 
 # About Me
-![photo - Copy](https://github.com/user-attachments/assets/86dd926b-c1e1-4e33-af6f-b42a2d3d9a11)
 Name : Simran Meena
+
 Education:
 - Post Graduate in Research Analytics, Humber College Toronto
 - Masters in Operation Research, Department of Mathematics, Hansraj College, University of Delhi
