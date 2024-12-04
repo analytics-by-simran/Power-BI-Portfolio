@@ -6,6 +6,8 @@ Here is a collection of Power BI projects and dashboards built using public open
 
 
 # About Me
+![photo - Copy](https://github.com/user-attachments/assets/d430081d-1d15-4654-b50e-0cdc27eddd96)
+
 Name : Simran Meena
 
 Education:
