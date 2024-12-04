@@ -9,9 +9,9 @@ Here is a collection of Power BI projects and dashboards built using public open
 Name : Simran Meena
 
 Education:
-- Post Graduate in Research Analytics, Humber College Toronto
-- Masters in Operation Research, Department of Mathematics, Hansraj College, University of Delhi
-- Bachelor in Science, Miranda House College, University of Delhi
+- Post Graduate in Research Analytics, Humber College, Toronto, Canada
+- Masters in Operation Research, Department of Mathematics, Hansraj College, University of Delhi, India
+- Bachelor in Science, Miranda House College, University of Delhi, India
 
 Profile Summary : I am a dedicated data geek with extensive experience in Power BI. I have vast expertise converting raw data into relevant insights, developing interactive dashboards, and advising organisations on data-driven decisions. This portfolio demonstrates my abilities to use Power BI to graphically present difficult data. 
 
