@@ -24,7 +24,7 @@ Here is a collection of Power BI projects and dashboards built using public open
 ## Profile Summary
 I am a passionate data enthusiast with extensive expertise in Power BI. My experience includes transforming raw data into meaningful insights, creating interactive dashboards, and enabling organizations to make data-driven decisions. This portfolio showcases my ability to visually present complex data using Power BI, highlighting my skills in turning challenges into actionable solutions.
 
-# Power BI Portfolio Projects! 
+# Power BI Projects
 ## Project 1 : Bank Customer Churn Analysis
 - Analyse the data to obtain a few insights about client churn.
 - It is important for banks to understand what causes a client to quit the organisation.
