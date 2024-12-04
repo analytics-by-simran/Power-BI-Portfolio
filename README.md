@@ -12,10 +12,13 @@ Here is a collection of Power BI projects and dashboards built using public open
 
 ## Education
 - Post Graduate Certificate in Research Analytics
+
   Humber College, Toronto, Canada
 - Master’s Degree in Operational Research
+
   Department of Mathematics, Hansraj College, University of Delhi, India
 - Bachelor’s Degree in Science
+
   Miranda House College, University of Delhi, India
 
 ## Profile Summary
