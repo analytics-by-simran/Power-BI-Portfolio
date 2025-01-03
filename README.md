@@ -57,7 +57,8 @@ Why This Data is Important for a Store
 - Documentation : https://docs.google.com/document/d/1grjval_0SAxRDYw7pN5clkYgBhMTjbRS/edit?usp=sharing&ouid=106202687322505496354&rtpof=true&sd=true
 - Datasets : https://drive.google.com/file/d/1mmfkIZg8OClalnlKniinmhSU_A9kEDsk/view?usp=sharing
   
-  ![image](https://github.com/user-attachments/assets/9369c7d9-3edf-48b7-a928-91a8934527d7)
+ <img width="1330" alt="image" src="https://github.com/user-attachments/assets/486782a6-440e-4e32-87fc-46204ebf9275" />
+
 
  ### Discover Insights with Power BI Q&A! 
  "Ask it anything—Power BI Q&A turns your questions into insights in an instant!"
